@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EB6CF37B-8EB6-A493-21CA-041294DD246D}") = "AirTennis", "Assembly-CSharp.csproj", "{CBE1CC39-733E-C54D-946E-FD9BF9FE7681}"
+EndProject
+Project("{EB6CF37B-8EB6-A493-21CA-041294DD246D}") = "AirTennis", "Assembly-CSharp-Editor.csproj", "{D6C6C60B-09BB-355D-FE64-E3C0FA74B7CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE1CC39-733E-C54D-946E-FD9BF9FE7681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE1CC39-733E-C54D-946E-FD9BF9FE7681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE1CC39-733E-C54D-946E-FD9BF9FE7681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE1CC39-733E-C54D-946E-FD9BF9FE7681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C6C60B-09BB-355D-FE64-E3C0FA74B7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C6C60B-09BB-355D-FE64-E3C0FA74B7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C6C60B-09BB-355D-FE64-E3C0FA74B7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C6C60B-09BB-355D-FE64-E3C0FA74B7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
